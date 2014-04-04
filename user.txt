@@ -1,0 +1,11 @@
+# User.txt
+1009:username:password:13810000000:username@gmail.com
+1000:Kitty:1234:13810381038:a@tarena.com.cn
+# default testing password:1234
+1001:Evan:1234:13810381038:b@tarena.com.cn
+1002:Zoey:1234:13810381038:c@tarena.com.cn
+1003:Mike:1234:13810381038:d@tarena.com.cn
+1004:Clint:1234:13810381038:e@tarena.com.cn
+1005:Cat:1234:13810381038:f@hotmail.com.cn
+2006:username:password:13810000000:g@gmail.com
+0000:admin:admin:13810000000:g@gmail.com
